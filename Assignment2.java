@@ -1,6 +1,6 @@
 package assignment2;
 
-public class Queue_Class {
+public class Assignment2 {
 	private int queue[], Maxsize, f, r, f1, r1, mid;
 
 	public void create_Queue(int size) {
